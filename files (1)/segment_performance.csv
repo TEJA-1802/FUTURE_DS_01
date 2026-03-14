@@ -1,0 +1,10 @@
+Segment,Category,Revenue,Profit,Orders,Customers,Margin %
+Consumer,Furniture,391049.31,6991.08,917,368,1.79
+Consumer,Office Supplies,363952.14,56330.32,1922,408,15.48
+Consumer,Technology,406399.9,70797.81,809,360,17.42
+Corporate,Furniture,229019.79,7584.82,540,211,3.31
+Corporate,Office Supplies,230676.46,40227.32,1142,233,17.44
+Corporate,Technology,246450.12,44167.0,454,200,17.92
+Home Office,Furniture,121930.7,3875.38,307,128,3.18
+Home Office,Office Supplies,124418.43,25933.16,678,147,20.84
+Home Office,Technology,183304.02,30490.14,281,127,16.63

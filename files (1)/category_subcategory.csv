@@ -1,0 +1,18 @@
+Category,Sub-Category,Revenue,Profit,Orders,Quantity,Avg_Margin,Profit Status
+Technology,Phones,330007.05,44515.73,814,3289,11.92,Profitable
+Furniture,Chairs,328449.1,26590.17,576,2356,4.39,Profitable
+Office Supplies,Storage,223843.61,21278.83,777,3158,8.91,Profitable
+Furniture,Tables,206965.53,-17725.48,307,1241,-14.77,Loss-Making
+Office Supplies,Binders,203412.73,30221.76,1316,5974,-19.96,Profitable
+Technology,Machines,189238.63,3384.76,112,440,-7.2,Profitable
+Technology,Accessories,167380.32,41936.64,718,2976,21.82,Profitable
+Technology,Copiers,149528.03,55617.82,68,234,31.72,Profitable
+Furniture,Bookcases,114880.0,-3472.56,224,868,-12.66,Loss-Making
+Office Supplies,Appliances,107532.16,18138.01,451,1729,-15.69,Profitable
+Furniture,Furnishings,91705.16,13059.14,877,3563,13.71,Profitable
+Office Supplies,Paper,78479.21,34053.57,1191,5178,42.56,Profitable
+Office Supplies,Supplies,46673.54,-1189.1,187,647,11.2,Loss-Making
+Office Supplies,Art,27118.79,6527.79,731,3000,25.16,Profitable
+Office Supplies,Envelopes,16476.4,6964.18,249,906,42.31,Profitable
+Office Supplies,Labels,12486.31,5546.25,346,1400,42.97,Profitable
+Office Supplies,Fasteners,3024.28,949.52,215,914,29.92,Profitable
