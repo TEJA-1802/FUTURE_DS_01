@@ -24,10 +24,10 @@ Analyze 4 years of real Superstore sales data (2014–2017) to uncover revenue t
 FUTURE_DS_01/
 ├── Sample_-_Superstore.csv       ← Raw dataset (9,994 transactions, 2014–2017)
 ├── sales_analysis.py             ← Python: cleaning, KPIs, exports Power BI CSVs
-├── powerbi_data/
+├── files(1)/
 │   ├── master_table.csv          ← Full cleaned dataset with engineered features
 │   ├── kpi_summary.csv           ← 9 headline KPIs
-│   ├── monthly_trend.csv         ← Monthly revenue & profit trend
+│   ├── monthly_trend.csv        ← Monthly revenue & profit trend
 │   ├── category_subcategory.csv  ← Performance by category and sub-category
 │   ├── region_state.csv          ← Revenue breakdown by region and state
 │   ├── segment_performance.csv   ← Customer segment analysis
